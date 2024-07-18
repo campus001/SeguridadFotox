@@ -6,7 +6,10 @@ img {
   width: 100%;
   
 }
-
+.Moto {
+  width: 75%;
+  
+}
 p {
   white-space: pre-wrap;
   text-align: justify;
