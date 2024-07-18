@@ -2,22 +2,20 @@ body {
   background-color: #f0a434;
   text-align: center;
      }
+
 .Baner {
   width: 100%;
-  
-}
+  }
+
 .Moto {
   width: 50%;
-  
-}
+  }
+
 p {
   white-space: pre-wrap;
   text-align: justify;
   width: 45%;
   }
-div {
-  text-align: center;
-}
 
 .texUno {
   display: flex;
