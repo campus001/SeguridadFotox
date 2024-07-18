@@ -8,9 +8,8 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 100; /* Asegurar que el header se superponga a otros elementos */
-  margin-top: 50px;
-  background-color: #000;
+  z-index: 100; 
+  background-color: #ffa200;
 }
 
 .Baner {
