@@ -61,7 +61,9 @@ p {
   grid-row: 2 / 5;
 }
 
-
+footer {
+  background-color: #e19018;
+     }
 
 
 @media (max-width: 768px) {
