@@ -11,6 +11,13 @@ header {
   z-index: 100; 
   background-color: #ffa200;
 }
+.header{
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+
+  
+}
 
 .Baner {
   width: 100%;
