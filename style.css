@@ -19,7 +19,7 @@ div {
   text-align: center;
 }
 
-.Contenido{
+.Contenido {
   display: flex;
   flex-direction: column;
   align-items: center;  
