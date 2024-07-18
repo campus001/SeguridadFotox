@@ -25,6 +25,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
 }
 .one {
   grid-column: 1 / 4;
