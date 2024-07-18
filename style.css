@@ -3,6 +3,14 @@ body {
   text-align: center;
      }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100; /* Asegurar que el header se superponga a otros elementos */
+}
+
 .Baner {
   width: 100%;
   }
