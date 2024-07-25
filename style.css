@@ -30,7 +30,7 @@ header {
 }
 
 .contenedor{
- width: 768px;
+ width: 830px;
   margin: 0 auto;  
 }
 
@@ -79,7 +79,7 @@ footer {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 830px) {
 .one {
   grid-column: 1 / 4;
   grid-row: 1;
