@@ -56,7 +56,7 @@ p {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 33%);
   grid-gap: 20px;
   margin: 8px;
 }
