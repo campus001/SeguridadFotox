@@ -67,6 +67,10 @@ p {
 footer {
   background-color: #e19018;
      }
+logoW {
+ width: 10%;
+     }
+
 
 
 @media (max-width: 768px) {
