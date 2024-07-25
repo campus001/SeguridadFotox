@@ -47,6 +47,7 @@ p {
   white-space: pre-wrap;
   text-align: justify;
   width: 100%;
+  overflow; hidden;
   }
 
 .texUno {
