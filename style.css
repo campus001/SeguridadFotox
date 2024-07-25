@@ -20,6 +20,10 @@ header {
   flex-direction: row-reverse;
   height: 70px  
 }
+.header1{
+  width: 720px;
+  margin: 0 auto;
+}
 
 .Baner {
   width: 100%;
