@@ -1,8 +1,7 @@
 body {
   background-color: #f0a434;
   text-align: center;
-  width: 937px;
-  margin: 0 auto;
+ 
      }
 
 header {
@@ -27,6 +26,11 @@ header {
   }
 .logo{
   width: 30%;
+}
+
+.contenedor{
+ width: 937px;
+  margin: 0 auto;  
 }
 
 .Moto {
