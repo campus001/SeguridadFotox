@@ -15,12 +15,12 @@ header {
 }
 
 .header{
+}
+.header1{
   display: flex;
   justify-content: center;
   flex-direction: row-reverse;
   height: 70px  
-}
-.header1{
   width: 980px;
   margin: 0 auto;
 }
