@@ -113,7 +113,9 @@ footer {
   width: 300px;
  
 }
-
+.tex{
+  text-align: center;
+}
   
 .one {
   grid-column: 1 / 4;
