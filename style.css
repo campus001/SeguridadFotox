@@ -131,6 +131,21 @@ footer {
  width: 100%;
   margin: 0 auto;  
 }
-  
+.one1 {
+  grid-column: 1 / 5;
+  grid-row: 1;
+}
+.two2 {
+  grid-column: 1 / 5;
+  grid-row: 2 / 3;
+}
+.three3 {
+  grid-column: 1 / 5;
+  grid-row: 3 / 4;
+}
+.for4 {
+  grid-column: 1 / 5;
+  grid-row: 4 / 5;
+}
   
 }
