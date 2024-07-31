@@ -147,5 +147,7 @@ footer {
   grid-column: 1 / 5;
   grid-row: 4 / 5;
 }
-  
+  .Moto1 {
+  width: 100%;
+  }
 }
