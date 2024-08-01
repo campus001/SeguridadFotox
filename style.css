@@ -107,6 +107,35 @@ footer {
 
 
 
+
+
+
+
+
+.carousel {
+  overflow: hidden;
+  white-space: nowrap;
+  /* Ancho total igual a la suma del ancho de todas las imágenes */
+  width: 600px; /* Ajusta según tus necesidades */
+}
+
+.carousel img {
+  display: inline-block;
+  /* Ancho de cada imagen */
+  width: 200px; /* Ajusta según tus necesidades */
+}
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 980px) {
 
 .header1{
