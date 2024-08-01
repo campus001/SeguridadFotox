@@ -121,7 +121,8 @@ footer {
 
 
 .carousel{
-    min-height: 50px;
+    max-height: 200px;
+    max-width: 200px;
 }
  
 .carousel .carousel-item {
