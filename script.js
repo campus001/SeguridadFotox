@@ -1,5 +1,3 @@
-alert("¡El JavaScript está funcionando!");
-
 const slides = document.querySelectorAll('.slide');
 let currentSlide = 0;
 
