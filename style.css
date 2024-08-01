@@ -115,8 +115,8 @@ footer {
 
 .carousel {
   display: flex;
-  flex-direction: column;
-  height: 300px; /* Ajusta la altura según tus necesidades */
+  
+  height: 300px; /* flex-direction: column;     Ajusta la altura según tus necesidades */
   overflow: hidden;
 }
 
