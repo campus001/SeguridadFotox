@@ -27,7 +27,12 @@ header {
 
 .mision {
   display: flex;
+  justify-content: space-between;
   }
+.mision1 {
+  background-color: #fff;
+  }
+
 .Baner1 {
   width: 100%;
   margin-top: 72px;
