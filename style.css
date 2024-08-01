@@ -113,16 +113,15 @@ footer {
 
 
 .carousel {
+  width: 100%;
   overflow: hidden;
-  white-space: nowrap;
-  /* Ancho total igual a la suma del ancho de todas las imágenes */
-  width: 600px; /* Ajusta según tus necesidades */
 }
 
-.carousel img {
-  display: inline-block;
-  /* Ancho de cada imagen */
-  width: 200px; /* Ajusta según tus necesidades */
+.slide {
+  float: left;
+  width: 100%;
+  /* Agrega transición para efectos de deslizamiento */
+  transition: all 0.5s ease;
 }
 
 
