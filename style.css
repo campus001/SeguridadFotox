@@ -45,6 +45,17 @@ header {
   width: 30%;
 }
 
+.aliados {
+  display: flex;
+  justify-content: space-between;
+  }
+.aliados1 {
+  background-color: #fff;
+  margin: 5px;
+  }
+
+
+
 .contenedor{
  width: 980px;
   margin: 0 auto;  
