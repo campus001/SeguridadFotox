@@ -47,7 +47,8 @@ header {
 
 .aliados {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
   }
 .aliados1 {
   background-color: #fff;
